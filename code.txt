@@ -1,1 +1,5 @@
 hello world
+xin chao nguyen truong thinh sv1
+xin chao duong ky quang sv2
+xin chao nguyen dinh truong sv3
+xin chao tran thanh tra sv4
